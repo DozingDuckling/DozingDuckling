@@ -1,5 +1,6 @@
-
-             ___
-         ___( --)>         std::this_thread::sleep_for(8h);                              D O Z I N G
-         \ <_) )           Thread.Sleep(Timeout.Infinite);                               D U C K L I N G
-          `---'
+```
+                                                               ___
+           std::this_thread::sleep_for(8h);                  <(-- )___                   D O Z I N G
+           Thread.Sleep(Timeout.Infinite);                     ( (_> /                   D U C K L I N G
+                                                                '---'
+```
